@@ -26,6 +26,8 @@
 ---
 <img align="left" alt="kevinlee-2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinlee-2000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlee-2000)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/kevin-lee-14949919b/
 [java]: https://www.java.com/en/
 [cpp]: https://www.cplusplus.com/
