@@ -35,4 +35,4 @@
 [github]: https://github.com/
 [vscode]: https://code.visualstudio.com/
 [androidstudio]: https://developer.android.com/studio
-[latex]: https://www.latex-project.org/
+[latex]: https://www.latex-project.org/ 
