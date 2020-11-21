@@ -3,7 +3,7 @@
 ## I'm currently a student at the University of California, San Diego!
 - 📱 I’m a part-time mobile developer at the Qualcomm Institute.
 - 🏫 I also am a tutor for the computer science department.
-- 👯 Goals: Looking to collaborate and work on game related projects. 🎮
+- 👯 Goals: Looking to collaborate on security/defense and game related projects. 🎮
 
 ### Connect with me: 
 
