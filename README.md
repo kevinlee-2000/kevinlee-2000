@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flate&logo=linux&logoColor=FCC624)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![Jira](https://img.shields.io/badge/jira-black.svg?style=flat&logo=jira&logoColor=230A0FFF)&nbsp;
+![Jira](https://img.shields.io/badge/jira-black.svg?style=flat&logo=jira&logoColor=1372E6)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-black.svg?style=flat&logo=docker&logoColor=-%230DB7ED)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=flat&logo=bitbucket&logoColor=230047B3)
 ![Android](https://img.shields.io/badge/Android-black?logo=android&logoColor=3DDC84)&nbsp;
