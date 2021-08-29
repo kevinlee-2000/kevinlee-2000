@@ -18,14 +18,16 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <br/>
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flate&logo=linux&logoColor=FCC624)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/jira-05122A.svg?style=for-the-badge&logo=jira&logoColor=230A0FFF)&nbsp;
+![Docker](https://img.shields.io/badge/docker-05122A.svg?style=for-the-badge&logo=docker&logoColor=-%230db7ed)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A.svg?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flate&logo=linux&logoColor=FCC624)
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
 ## 📫 Connect with me!
 <a href="https://www.linkedin.com/in/kevinlee-2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
