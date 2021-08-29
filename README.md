@@ -10,6 +10,7 @@
 - ✉️ Feel free to email me at kelee@ucsd.edu
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
+<!-- Format: ![<Text>](https://img.shields.io/badge-<text>-<color>?style=flat&logo=<text>&logoColor=<value>)%nbsp; -->
 ## 🛠 Software Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-05122A?style=flat&logo=kotlin&logoColor=766DB2)
