@@ -1,9 +1,9 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/[linkedin]/) 
 
 <a href="mailto:kevinlee2k0702@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kevinlee-2000/">
+<a href="https://www.linkedin.com/in/[linkedin]/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
@@ -28,7 +28,8 @@
 ---
 <img align="left" alt="kevinlee-2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinlee-2000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
-[linkedin]: https://www.linkedin.com/in/kevin-lee-14949919b/
+<!-- CONSTANT LINKS -->
+[linkedin]: https://www.linkedin.com/in/kevin-lee2000/
 [java]: https://www.java.com/en/
 [cpp]: https://www.cplusplus.com/
 [python]: https://www.python.org/
