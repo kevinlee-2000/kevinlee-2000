@@ -9,6 +9,7 @@
 - 🤝 Looking to collaborate on any projects!
 - ✉️ Feel free to email me at kelee@ucsd.edu
 
+<!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
 ## 🛠 Software Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
