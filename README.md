@@ -5,7 +5,7 @@
 - 🎓 I am currently a student at the University of California, San Diego!
 - 💻 I work as an android developer intern at ResMed and part-time at the Qualcomm Institute
 - 🏫 I previously was a tutor for the computer science department (5 quarters)
-- 🎮 I enjoy playing video games in my free time
+- 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects!
 - ✉️ Feel free to email me at kelee@ucsd.edu
 
