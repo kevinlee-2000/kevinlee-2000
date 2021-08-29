@@ -10,6 +10,7 @@
 - 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects!
 - ✉️ Feel free to email me at kelee@ucsd.edu
+- ![](https://visitor-badge.glitch.me/badge?page_id=kevinlee-2000&style=flat-square&color=0088cc)
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
 <!-- Format: ![<Text>](https://img.shields.io/badge-<text>-<color>?style=flat&logo=<text>&logoColor=<value>)%nbsp; -->
