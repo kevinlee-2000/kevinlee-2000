@@ -41,7 +41,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlee-2000&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-lee2000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-lee2000&theme=onedark)](https://github.com/kevinlee-2000/github-profile-trophy)
 
 ## 💬 Connect with me!
 <a href="https://www.linkedin.com/in/kevinlee-2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
