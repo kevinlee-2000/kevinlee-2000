@@ -1,6 +1,7 @@
 <!-- Inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/)
+![](https://visitor-badge.glitch.me/badge?page_id=kevinlee-2000&style=flat-square&color=0088cc)
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" >
 
 ### About me
@@ -10,7 +11,6 @@
 - 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects!
 - ✉️ Feel free to email me at kelee@ucsd.edu
-- ![](https://visitor-badge.glitch.me/badge?page_id=kevinlee-2000&style=flat-square&color=0088cc)
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
 <!-- Format: ![<Text>](https://img.shields.io/badge-<text>-<color>?style=flat&logo=<text>&logoColor=<value>)%nbsp; -->
