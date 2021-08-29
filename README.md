@@ -17,10 +17,6 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />]
 
-<br />
----
-<img align="left" alt="kevinlee-2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinlee-2000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
 ## Connect with me!
 <a href="mailto:kevinlee2k0702@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
