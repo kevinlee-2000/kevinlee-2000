@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="375" >
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me :octocat:
 - 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
 - 💻 I work as an android developer intern at <a href="https://www.resmed.com/en-us/">ResMed</a> and part-time at the <a href="https://qi.ucsd.edu">Qualcomm Institute</a>
 - 🏫 I previously was a tutor for the computer science department (5 quarters)
@@ -29,7 +29,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=green&color=black)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-black.svg?style=flat&logo=latex&logoColor=23008080)&nbsp;
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinlee-2000&show_icons=true&theme=tokyonight" />
