@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-black.svg?style=flat&logo=jira&logoColor=1372E6)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-black.svg?style=flat&logo=docker&logoColor=-%230DB7ED)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=flat&logo=bitbucket&logoColor=230047B3)
+![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=flat&logo=bitbucket&logoColor=2684FF)
 ![Android](https://img.shields.io/badge/Android-black?logo=android&logoColor=3DDC84)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=green&color=black)&nbsp;
