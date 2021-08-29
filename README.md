@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/docker-black.svg?style=flat&logo=docker&logoColor=-%230DB7ED)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-black.svg?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-## 📈 GitHub Stats
+## ⭐ GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinlee-2000&show_icons=true&theme=tokyonight" />
