@@ -6,12 +6,12 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" >
 
 ### About me
-<img align="right" alt="GIF" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey"/>
 - 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
 - 👨🏻‍💻 I work as an android developer intern at <a href="https://www.resmed.com/en-us/">ResMed</a> and part-time at the <a href="https://qi.ucsd.edu">Qualcomm Institute</a>
 - 🏫 I was a tutor for the computer science department and tutored Object Oriented Programming (Java) and Advanced Data Structures (C++)
 - 🎮 Big esports fan and enjoy playing video games in my free time. If I am not doing that, you can catch me broswing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects
+<img align="right" alt="GIF" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey"/>
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
 <!-- Format: ![<Text>](https://img.shields.io/badge-<text>-<color>?style=flat&logo=<text>&logoColor=<value>)%nbsp; -->
