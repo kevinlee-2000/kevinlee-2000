@@ -1,11 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/[linkedin]/) 
 
-<a href="mailto:kevinlee2k0702@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/[linkedin]/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## I'm currently a student at the University of California, San Diego!
@@ -26,6 +20,14 @@
 <br />
 ---
 <img align="left" alt="kevinlee-2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kevinlee-2000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+## Connect with me!
+<a href="mailto:kevinlee2k0702@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/[linkedin]/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 
 <!-- CONSTANT LINKS -->
 [linkedin]: https://www.linkedin.com/in/kevin-lee2000/
