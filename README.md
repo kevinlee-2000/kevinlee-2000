@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About me
 - 🎓 I am currently a student at the University of California, San Diego!
-- 💻 I work as an android developer intern at ResMed and also as a part-time mobile developer at the Qualcomm Institute
+- 💻 I work as an android developer intern at ResMed and part-time at the Qualcomm Institute
 - 🏫 Previously was a tutor for the computer science department (5 quarters)
 - 🎮 I enjoy playing video games in my free time
 - 🤝 Looking to collaborate on any projects!
