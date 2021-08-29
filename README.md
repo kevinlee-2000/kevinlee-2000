@@ -1,5 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, welcome to my profile! My name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="375" >
+
 ## 👨🏻‍💻 About me
 - 🎓 I am a student at the University of California, San Diego
 - 💻 I work as an android developer intern at ResMed and part-time at the Qualcomm Institute
