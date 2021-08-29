@@ -11,7 +11,6 @@
 - 🏫 I previously was a tutor for the computer science department (5 quarters)
 - 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects
-- ✉️ Feel free to email me at kelee@ucsd.edu
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
 <!-- Format: ![<Text>](https://img.shields.io/badge-<text>-<color>?style=flat&logo=<text>&logoColor=<value>)%nbsp; -->
