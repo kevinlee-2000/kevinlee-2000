@@ -8,7 +8,7 @@
 ### About me
 - 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
 - 👨🏻‍💻 I work as an android developer intern at <a href="https://www.resmed.com/en-us/">ResMed</a> and part-time at the <a href="https://qi.ucsd.edu">Qualcomm Institute</a>
-- 🏫 I previously was a tutor for the computer science department (5 quarters)
+- 🏫 I was a tutor for the computer science department and tutored Object Oriented Programming (Java) and Advanced Data Structures (C++)
 - 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
 - 🤝 I am looking to collaborate on any projects
 
