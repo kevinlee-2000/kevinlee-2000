@@ -6,6 +6,7 @@
 - 📱  I work as an android developer intern at ResMed and also as a part-time mobile developer at the Qualcomm Institute
 - 🏫 Previously was a tutor for the computer science department (5 quarters)
 - 🤝 Looking to collaborate on any projects!
+- ✉️ Feel free to email me at kelee@ucsd.edu
 
 ## Software Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
