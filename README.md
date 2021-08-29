@@ -9,7 +9,7 @@
 
 <br />
 
-## I'm currently a student at the University of California, San Diego!
+### I'm currently a student at the University of California, San Diego!
 - 📱 I am currently an intern at ResMed and also a part-time mobile developer at the Qualcomm Institute.
 - 🏫 Previously was a tutor for the computer science department (5 quarters).
 - 🤝 Goals: Looking to collaborate on any projects!
