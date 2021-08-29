@@ -42,7 +42,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlee-2000&theme=tokyonight" />
 </p>
 
-## 💬 My socials!
+## 💬 Socials
 <a href="https://github.com/kevinlee-2000/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flate&logo=github&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/kevinlee-2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:kelee@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
