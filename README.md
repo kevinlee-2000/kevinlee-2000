@@ -7,9 +7,10 @@
 
 ### About me
 - 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
-- 👨🏻‍💻 I work as an android developer intern at <a href="https://www.resmed.com/en-us/">ResMed</a> and part-time at the <a href="https://qi.ucsd.edu">Qualcomm Institute</a>
+- 👨🏻‍💻 I currently work as an Android Developer
 - 🏫 I was a tutor for the computer science department and tutored Object Oriented Programming (Java) and Advanced Data Structures (C++)
 - 🎮 Big esports fan and enjoy playing video games in my free time. If I am not doing that, you can catch me broswing YouTube, Twitch, and Reddit
+- 😄 Pronouns: He, Him and His
 - 🤝 I am looking to collaborate on any projects
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
