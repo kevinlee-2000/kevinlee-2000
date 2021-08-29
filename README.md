@@ -1,4 +1,4 @@
-### Hi, I'm Kevin 👋
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 
 ## I'm currently a student at the University of California, San Diego!
 - 📱 I’m a part-time mobile developer at the Qualcomm Institute.
