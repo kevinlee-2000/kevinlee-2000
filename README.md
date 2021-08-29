@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/[linkedin]/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-
-<br />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## I'm currently a student at the University of California, San Diego!
 - 📱 I am currently an intern at ResMed and also a part-time mobile developer at the Qualcomm Institute.
