@@ -10,7 +10,7 @@
 - 👨🏻‍💻 I work as an android developer intern at <a href="https://www.resmed.com/en-us/">ResMed</a> and part-time at the <a href="https://qi.ucsd.edu">Qualcomm Institute</a>
 - 🏫 I previously was a tutor for the computer science department (5 quarters)
 - 🎮 I enjoy playing video games in my free time and browsing YouTube, Twitch, and Reddit
-- 🤝 I am looking to collaborate on any projects!
+- 🤝 I am looking to collaborate on any projects
 - ✉️ Feel free to email me at kelee@ucsd.edu
 
 <!-- Use this to find badges https://github.com/Ileriayo/markdown-badges -->
