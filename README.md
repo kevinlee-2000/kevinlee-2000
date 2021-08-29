@@ -10,12 +10,11 @@
 <br />
 
 ## I'm currently a student at the University of California, San Diego!
-- 📱 I’m a part-time mobile developer at the Qualcomm Institute.
-- 🏫 I also am a tutor for the computer science department.
+- 📱 I am currently an intern at ResMed and also a part-time mobile developer at the Qualcomm Institute.
+- 🏫 Previously was a tutor for the computer science department (5 quarters).
 - 🤝 Goals: Looking to collaborate on any projects!
 
 ### Languages and Tools:
-
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
