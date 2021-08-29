@@ -8,8 +8,8 @@
 ### About me
 - 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
 - 👨🏻‍💻 I currently work as an Android Developer
-- 🏫 Passion for teaching and was a computer science tutor (Object Oriented Programming and Advanced Data Structures)
-- 🎮 Big esports fan and enjoy playing video games in my free time. 
+- 🏫 Passion for teaching and was a computer science tutor
+- 🎮 Big esports fan and enjoy playing video games in my free time
 - 🌐 Love broswing YouTube, Twitch, and Reddit
 - 😄 Pronouns: He, Him and His
 - 🤝 I am looking to collaborate on any projects
