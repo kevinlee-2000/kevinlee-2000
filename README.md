@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="375" >
 
 ## 👨🏻‍💻 About me
+- Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 🎓 I am a student at the University of California, San Diego
 - 💻 I work as an android developer intern at ResMed and part-time at the Qualcomm Institute
 - 🏫 I previously was a tutor for the computer science department (5 quarters)
