@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## I'm currently a student at the University of California, San Diego!
-- 📱 I am currently an intern at ResMed and also a part-time mobile developer at the Qualcomm Institute.
-- 🏫 Previously was a tutor for the computer science department (5 quarters).
-- 🤝 Goals: Looking to collaborate on any projects!
+- 📱 I am currently an intern at ResMed and also a part-time mobile developer at the Qualcomm Institute
+- 🏫 Previously was a tutor for the computer science department (5 quarters)
+- 🤝 Looking to collaborate on any projects!
 
 ## Software Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
