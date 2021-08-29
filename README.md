@@ -1,9 +1,9 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, welcome to my profile! My name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-## 👨🏻‍💻 About me
+## About me
 - 🎓 I am currently a student at the University of California, San Diego!
-- 📱  I work as an android developer intern at ResMed and also as a part-time mobile developer at the Qualcomm Institute
+- 💻 I work as an android developer intern at ResMed and also as a part-time mobile developer at the Qualcomm Institute
 - 🏫 Previously was a tutor for the computer science department (5 quarters)
 - 🤝 Looking to collaborate on any projects!
 - ✉️ Feel free to email me at kelee@ucsd.edu
