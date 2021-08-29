@@ -26,7 +26,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=flat&logo=bitbucket&logoColor=230047B3)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black.svg?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=green&color=black)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=green)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-black.svg?style=flat&logo=latex&logoColor=23008080)&nbsp;
 
 ## 📫 Connect with me!
