@@ -1,6 +1,7 @@
 <!-- Inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 <img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=kevinlee-2000.visitor-badge "/>
+<img align="right" alt="GIF" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey"/>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/)
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" >
