@@ -1,6 +1,6 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 
-### Connect with me: 
+## Connect with me: 
 <a href="mailto:kevinlee2k0702@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
