@@ -6,8 +6,8 @@
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="350"/>
 
 ### About me
-- 🎓 I am a student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
-- 👨🏻‍💻 I currently work as an Android Developer
+- 🎓 Student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
+- 👨🏻‍💻 Currently work as an Android Developer
 - 🏫 Passion for teaching and was a computer science tutor
 - 🎮 Big esports fan and enjoy playing video games in my free time
 - 🌐 Love broswing YouTube, Twitch, and Reddit
