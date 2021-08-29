@@ -1,3 +1,5 @@
+<!-- Inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/) 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="375" >
 
