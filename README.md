@@ -29,6 +29,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=green&color=black)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-black.svg?style=flat&logo=latex&logoColor=23008080)&nbsp;
 
-## 📫 Connect with me!
+## 💬 Connect with me!
 <a href="https://www.linkedin.com/in/kevinlee-2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:kelee@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
