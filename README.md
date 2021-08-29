@@ -23,11 +23,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-black.svg?style=flat&logo=jira&logoColor=230A0FFF)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-black.svg?style=flat&logo=docker&logoColor=-%230DB7ED)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=for-the-badge&logo=bitbucket&logoColor=230047B3)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A.svg?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-black.svg?style=flat&logo=bitbucket&logoColor=230047B3)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black.svg?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-black.svg?style=flat&logo=latex&logoColor=23008080)&nbsp;
 
 ## 📫 Connect with me!
 <a href="https://www.linkedin.com/in/kevinlee-2000/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
