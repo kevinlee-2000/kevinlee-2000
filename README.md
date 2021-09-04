@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://visitor-badge.glitch.me/badge?page_id=kevinlee-2000.visitor-badge "/>
 
 # <img src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/hand_wave.gif" width="29px"> Hello, my name is [Kevin Lee](https://www.linkedin.com/in/kevinlee-2000/)
-<img align="right" src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/coding.gif" width="360" height="250" />
+<img align="right" src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/coding.gif" width="360"/>
 
 ### About me
 - 🎓 Student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
