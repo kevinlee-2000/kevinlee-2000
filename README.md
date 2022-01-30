@@ -6,8 +6,8 @@
 <img align="right" src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/coding.gif" width="360"/>
 
 ### About me
-- 🎓 Student at the <a href="https://www.ucsd.edu">University of California, San Diego</a>
 - 👨🏻‍💻 Currently work as an Android Developer
+- 🎓 <a href="https://www.ucsd.edu">University of California, San Diego</a> Alumni
 - 🏫 Passion for teaching and was a computer science tutor
 - 🎮 Big esports fan and enjoy playing video games in my free time
 - 🌐 Love broswing YouTube, Twitch, and Reddit
