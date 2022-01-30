@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/coding.gif" width="360"/>
 
 ### About me
-- 👨🏻‍💻 Currently work as an Android Developer
+- 👨🏻‍💻 Full-time Software Engineer 
 - 🎓 <a href="https://www.ucsd.edu">University of California, San Diego</a> Alumni
 - 🏫 Passion for teaching and was a computer science tutor
 - 🎮 Big esports fan and enjoy playing video games in my free time
