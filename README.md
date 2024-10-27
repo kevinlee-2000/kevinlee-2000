@@ -10,7 +10,7 @@
 - 🎓 <a href="https://www.ucsd.edu">University of California, San Diego</a> Alumni
 - 🏫 Passion for teaching and was a computer science tutor
 - 🎮 Big esports fan and enjoy playing video games in my free time
-- 🌐 Love broswing YouTube, Twitch, and Reddit
+- 🌐 Love browsing YouTube, Twitch, and Reddit
 - 😄 Pronouns: He, Him and His
 - 🤝 I am looking to collaborate on any projects
 
